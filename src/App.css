@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.home{
+  background-color: black;
+  color: white;
+}
+.home ul{
+  width: 80%;
+  margin: auto;
+}
+.home ul li{
+  display: inline-block;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+
+}
+.home ul li .link{
+  color: white;
+}
